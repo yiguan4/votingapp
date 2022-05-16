@@ -1,4 +1,5 @@
-1. install ganache-cli:
+1. install ganache-cli & other dependencies:
+  npm install
   npm install ganache-cli -g
 
 2. Run ganache on terminal
